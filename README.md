@@ -19,7 +19,7 @@ This project implements a multi-client chat system using Python and TCP sockets.
 - `server.py` / `server.exe` – Server implementation in script and executable form.
 - `client.py` / `client.exe` – Client implementation in script and executable form.
 - `chat_documentation.txt` – Generated chat session log.
-- `Multi Threaded Chat Server.pdf` – Full documentation and setup guide.
+- `Multi-Threaded Chat Server.pdf` – Full documentation and setup guide.
 
 ## How to Run
 
@@ -56,7 +56,7 @@ This project implements a multi-client chat system using Python and TCP sockets.
 
 **Shalev Atsis**  
 Computer Science Student, HIT College  
-📞 058-5060699  
+📞 +972-58-5060699  
 📧 [Shalevatsis@gmail.com](mailto:Shalevatsis@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shalev-atsis-software-developer)
 
