@@ -1,10 +1,6 @@
 # Socket_Chat
+
 A multithreaded chat server implemented in Python using TCP sockets. Supports real-time communication between multiple clients with both private and broadcast messaging, session logging, and graceful shutdown. Includes both script and executable versions for ease of use.
-
-
-# Multi-Threaded Chat Server
-
-This project implements a multi-client chat system using Python and TCP sockets. It supports real-time messaging, including private and broadcast communication, with a multithreaded server capable of handling multiple clients simultaneously.
 
 ## Features
 
